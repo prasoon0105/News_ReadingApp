@@ -1,3 +1,20 @@
+ News App
+
+This is a simple news application built using ReactJS. It fetches and displays the latest news articles using an external news API.
+
+## Features
+
+- Fetches news articles from an external API.
+- Displays news articles with headlines, images, and descriptions.
+- Allows users to filter news by category.
+- Responsive design for mobile and desktop.
+- 
+## Technologies Used
+
+- ReactJS
+- CSS (for styling)
+- [News API](https://newsapi.org/) (for fetching news articles)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
